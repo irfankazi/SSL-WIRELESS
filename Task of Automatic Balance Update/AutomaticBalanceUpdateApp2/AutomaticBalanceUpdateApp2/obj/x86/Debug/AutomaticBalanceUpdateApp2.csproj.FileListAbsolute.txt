@@ -1,0 +1,8 @@
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\bin\Debug\AutomaticBalanceUpdateApp2.exe
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\bin\Debug\AutomaticBalanceUpdateApp2.pdb
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.Properties.Resources.resources
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.csproj.GenerateResource.Cache
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.exe
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.pdb
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.csprojResolveAssemblyReference.cache
+E:\KAZI\Works\09-11-2014(Automatic Balance Update-V2)\AutomaticBalanceUpdateApp2\AutomaticBalanceUpdateApp2\obj\x86\Debug\AutomaticBalanceUpdateApp2.AutomaticBalanceUpdateApp.resources
