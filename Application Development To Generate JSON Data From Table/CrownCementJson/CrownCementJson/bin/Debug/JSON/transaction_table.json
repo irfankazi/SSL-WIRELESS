@@ -1,0 +1,22 @@
+{
+  "transaction_table": [
+    {
+      "xcus": "a",
+      "xduescon": 1,
+      "xduesrec": 1,
+      "case_col": "a"
+    },
+    {
+      "xcus": "s",
+      "xduescon": 2,
+      "xduesrec": 2,
+      "case_col": "s"
+    },
+    {
+      "xcus": "d",
+      "xduescon": 3,
+      "xduesrec": 3,
+      "case_col": "d"
+    }
+  ]
+}

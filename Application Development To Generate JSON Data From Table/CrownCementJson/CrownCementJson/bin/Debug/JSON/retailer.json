@@ -1,0 +1,31 @@
+{
+  "retailer": [
+    {
+      "xid": 1,
+      "xname": "a",
+      "xoffadd": "a",
+      "xphone": "a",
+      "xarea": "a",
+      "xcus": "a",
+      "cname": "a"
+    },
+    {
+      "xid": 2,
+      "xname": "s",
+      "xoffadd": "s",
+      "xphone": "s",
+      "xarea": "s",
+      "xcus": "s",
+      "cname": "s"
+    },
+    {
+      "xid": 3,
+      "xname": "d",
+      "xoffadd": "d",
+      "xphone": "d",
+      "xarea": "d",
+      "xcus": "d",
+      "cname": "d"
+    }
+  ]
+}

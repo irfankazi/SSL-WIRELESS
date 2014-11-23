@@ -1,0 +1,28 @@
+{
+  "Distributor": [
+    {
+      "xcus": "a",
+      "xorg": "a",
+      "xoffadd": "a",
+      "xfphone": "a",
+      "xgcus": "a",
+      "xsp": "a"
+    },
+    {
+      "xcus": "s",
+      "xorg": "s",
+      "xoffadd": "s",
+      "xfphone": "s",
+      "xgcus": "s",
+      "xsp": "s"
+    },
+    {
+      "xcus": "d",
+      "xorg": "d",
+      "xoffadd": "d",
+      "xfphone": "d",
+      "xgcus": "d",
+      "xsp": "d"
+    }
+  ]
+}

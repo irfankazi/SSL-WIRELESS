@@ -1,0 +1,6 @@
+(dealer) xorg,xoffadd,xfphone,xgcus,xsp
+(Corporate) xcus,xorg,xoffadd,xfphone,xgcus,xsp
+(Distributor) xcus,xorg,xoffadd,xfphone,xgcus,xsp
+(influencer) xcus,xorg,xoffadd,xfphone,xgcus,xsp
+(retailer) xid,xname,xoffadd,xphone,xarea,xcus,cname
+(transaction_table) xcus,xduescon,xduesrec,case_col
