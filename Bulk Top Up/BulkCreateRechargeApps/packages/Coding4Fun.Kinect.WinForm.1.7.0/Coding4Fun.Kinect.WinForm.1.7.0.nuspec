@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Coding4Fun.Kinect.WinForm</id>
+    <version>1.7.0</version>
+    <title>Coding4fun Kinect Toolkit for WinForm</title>
+    <authors>Coding4Fun,  Clint Rutkas,  Brian Peek</authors>
+    <owners>Coding4Fun,  Clint Rutkas,  Brian Peek</owners>
+    <licenseUrl>http://c4fkinect.codeplex.com/license</licenseUrl>
+    <projectUrl>http://c4fkinect.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A toolkit for WinForm for the Kinect for Windows SDK</description>
+    <summary>A toolkit for WinForm for the Kinect for Windows SDK</summary>
+    <language>en-US</language>
+    <tags>coding4fun kinect windows forms winform</tags>
+  </metadata>
+</package>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://192.168.92.138/vr/bulktop/?wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns="http://schemas.xmlsoap.org/wsdl/" name="virtualrecharge" targetNamespace="http://192.168.92.138/vr/bulktop/?wsdl" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://192.168.92.138/vr/bulktop/?wsdl">
+      <xsd:complexType name="ClientDataType">
+        <xsd:all>
+          <xsd:element name="client_user_id" type="xsd:string" />
+          <xsd:element name="client_name" type="xsd:string" />
+          <xsd:element name="client_contact_details" type="xsd:string" />
+          <xsd:element name="client_active_status" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="ClientBalanceDataType">
+        <xsd:all>
+          <xsd:element name="client_user_id" type="xsd:string" />
+          <xsd:element name="available_credit" type="xsd:string" />
+          <xsd:element name="last_updated_time" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="OperatorDataType">
+        <xsd:all>
+          <xsd:element name="operator_id" type="xsd:int" />
+          <xsd:element name="operator_name" type="xsd:string" />
+          <xsd:element name="msisdn_prefix" type="xsd:string" />
+          <xsd:element name="active_status" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="ArrayOfOperatorDataType">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="operator_info_array" type="tns:OperatorDataType" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="RechargeResponseDataType">
+        <xsd:all>
+          <xsd:element name="vr_guid" type="xsd:string" />
+          <xsd:element name="recharge_status" type="xsd:int" />
+          <xsd:element name="message" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="OperatorLimitsDataType">
+        <xsd:all>
+          <xsd:element name="operator_id" type="xsd:int" />
+          <xsd:element name="prepaid_low_limit" type="xsd:int" />
+          <xsd:element name="prepaid_high_limit" type="xsd:int" />
+          <xsd:element name="postpaid_low_limit" type="xsd:int" />
+          <xsd:element name="postpaid_high_limit" type="xsd:int" />
+          <xsd:element name="prepaid_time_limit" type="xsd:int" />
+          <xsd:element name="postpaid_time_limit" type="xsd:int" />
+        </xsd:all>
+      </xsd:complexType>
+      <xsd:complexType name="RechargeRequestDataType">
+        <xsd:all>
+          <xsd:element name="guid" type="xsd:string" />
+          <xsd:element name="vr_guid" type="xsd:string" />
+          <xsd:element name="request_time" type="xsd:string" />
+          <xsd:element name="operator_id" type="xsd:int" />
+          <xsd:element name="recipient_msisdn" type="xsd:string" />
+          <xsd:element name="connection_type" type="xsd:string" />
+          <xsd:element name="amount" type="xsd:int" />
+          <xsd:element name="init_time" type="xsd:string" />
+          <xsd:element name="cancel_time" type="xsd:string" />
+          <xsd:element name="recharge_date" type="xsd:string" />
+          <xsd:element name="recharge_status" type="xsd:int" />
+          <xsd:element name="message" type="xsd:string" />
+        </xsd:all>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="GetClientInfoRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetClientInfoResponse">
+    <wsdl:part name="client_info" type="tns:ClientDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetBalanceInfoRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetBalanceInfoResponse">
+    <wsdl:part name="stock_balance" type="tns:ClientBalanceDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetLastRechargeTimeRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="operator_id" type="xsd:string" />
+    <wsdl:part name="msisdn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetLastRechargeTimeResponse">
+    <wsdl:part name="last_recharge_time" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="FindOperatorInfoRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="msisdn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="FindOperatorInfoResponse">
+    <wsdl:part name="operator_info" type="tns:OperatorDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetOperatorInfoRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="operator_id" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOperatorInfoResponse">
+    <wsdl:part name="operator_info" type="tns:OperatorDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetAllOperatorInfoRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="active_status" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetAllOperatorInfoResponse">
+    <wsdl:part name="operator_info_array" type="tns:ArrayOfOperatorDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusCodeMeaningRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="status_code" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetStatusCodeMeaningResponse">
+    <wsdl:part name="response" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="CreateRechargeRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="client_pass" type="xsd:string" />
+    <wsdl:part name="guid" type="xsd:string" />
+    <wsdl:part name="operator_id" type="xsd:int" />
+    <wsdl:part name="recipient_msisdn" type="xsd:string" />
+    <wsdl:part name="amount" type="xsd:int" />
+    <wsdl:part name="connection_type" type="xsd:string" />
+    <wsdl:part name="sender_id" type="xsd:string" />
+    <wsdl:part name="priority" type="xsd:int" />
+    <wsdl:part name="success_url" type="xsd:string" />
+    <wsdl:part name="failure_url" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="CreateRechargeResponse">
+    <wsdl:part name="recharge_response" type="tns:RechargeResponseDataType" />
+  </wsdl:message>
+  <wsdl:message name="CreateWimaxRechargeRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="client_pass" type="xsd:string" />
+    <wsdl:part name="guid" type="xsd:string" />
+    <wsdl:part name="operator_id" type="xsd:int" />
+    <wsdl:part name="user_account" type="xsd:string" />
+    <wsdl:part name="amount" type="xsd:string" />
+    <wsdl:part name="connection_type" type="xsd:string" />
+    <wsdl:part name="sender_id" type="xsd:string" />
+    <wsdl:part name="priority" type="xsd:int" />
+    <wsdl:part name="success_url" type="xsd:string" />
+    <wsdl:part name="failure_url" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="CreateWimaxRechargeResponse">
+    <wsdl:part name="recharge_response" type="tns:RechargeResponseDataType" />
+  </wsdl:message>
+  <wsdl:message name="VerifyMSISDNRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="msisdn" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="VerifyMSISDNResponse">
+    <wsdl:part name="result" type="xsd:int" />
+  </wsdl:message>
+  <wsdl:message name="InitRechargeRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="client_pass" type="xsd:string" />
+    <wsdl:part name="guid" type="xsd:string" />
+    <wsdl:part name="vr_guid" type="xsd:string" />
+    <wsdl:part name="success_url" type="xsd:string" />
+    <wsdl:part name="failure_url" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="InitRechargeResponse">
+    <wsdl:part name="recharge_response" type="tns:RechargeResponseDataType" />
+  </wsdl:message>
+  <wsdl:message name="CancelRechargeRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="client_pass" type="xsd:string" />
+    <wsdl:part name="guid" type="xsd:string" />
+    <wsdl:part name="vr_guid" type="xsd:string" />
+    <wsdl:part name="cancel_reason" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="CancelRechargeResponse">
+    <wsdl:part name="recharge_response" type="tns:RechargeResponseDataType" />
+  </wsdl:message>
+  <wsdl:message name="GetOperatorLimitsRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="operator_id" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOperatorLimitsResponse">
+    <wsdl:part name="operator_limits" type="tns:OperatorLimitsDataType" />
+  </wsdl:message>
+  <wsdl:message name="QueryRechargeStatusRequest">
+    <wsdl:part name="client_id" type="xsd:string" />
+    <wsdl:part name="guid" type="xsd:string" />
+    <wsdl:part name="vr_guid" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="QueryRechargeStatusResponse">
+    <wsdl:part name="recharge_request" type="tns:RechargeRequestDataType" />
+  </wsdl:message>
+  <wsdl:portType name="virtualrechargePortType">
+    <wsdl:operation name="GetLastRechargeTime">
+      <wsdl:input message="tns:GetLastRechargeTimeRequest" />
+      <wsdl:output message="tns:GetLastRechargeTimeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="FindOperatorInfo">
+      <wsdl:input message="tns:FindOperatorInfoRequest" />
+      <wsdl:output message="tns:FindOperatorInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOperatorInfo">
+      <wsdl:input message="tns:GetOperatorInfoRequest" />
+      <wsdl:output message="tns:GetOperatorInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOperatorInfo">
+      <wsdl:input message="tns:GetAllOperatorInfoRequest" />
+      <wsdl:output message="tns:GetAllOperatorInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetClientInfo">
+      <wsdl:input message="tns:GetClientInfoRequest" />
+      <wsdl:output message="tns:GetClientInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetBalanceInfo">
+      <wsdl:input message="tns:GetBalanceInfoRequest" />
+      <wsdl:output message="tns:GetBalanceInfoResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusCodeMeaning">
+      <wsdl:input message="tns:GetStatusCodeMeaningRequest" />
+      <wsdl:output message="tns:GetStatusCodeMeaningResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateRecharge">
+      <wsdl:input message="tns:CreateRechargeRequest" />
+      <wsdl:output message="tns:CreateRechargeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateWimaxRecharge">
+      <wsdl:input message="tns:CreateWimaxRechargeRequest" />
+      <wsdl:output message="tns:CreateWimaxRechargeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="InitRecharge">
+      <wsdl:input message="tns:InitRechargeRequest" />
+      <wsdl:output message="tns:InitRechargeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="VerifyMSISDN">
+      <wsdl:input message="tns:VerifyMSISDNRequest" />
+      <wsdl:output message="tns:VerifyMSISDNResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOperatorLimits">
+      <wsdl:input message="tns:GetOperatorLimitsRequest" />
+      <wsdl:output message="tns:GetOperatorLimitsResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryRechargeStatus">
+      <wsdl:input message="tns:QueryRechargeStatusRequest" />
+      <wsdl:output message="tns:QueryRechargeStatusResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelRecharge">
+      <wsdl:input message="tns:CancelRechargeRequest" />
+      <wsdl:output message="tns:CancelRechargeResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="virtualrechargeBinding" type="tns:virtualrechargePortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="GetClientInfo">
+      <soap:operation soapAction="urn:soap-iso#GetClientInfo" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBalanceInfo">
+      <soap:operation soapAction="urn:soap-iso#GetBalanceInfo" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLastRechargeTime">
+      <soap:operation soapAction="urn:soap-iso#GetLastRechargeTime" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindOperatorInfo">
+      <soap:operation soapAction="urn:soap-iso#FindOperatorInfo" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOperatorInfo">
+      <soap:operation soapAction="urn:soap-iso#GetOperatorInfo" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOperatorInfo">
+      <soap:operation soapAction="urn:soap-iso#GetAllOperatorInfo" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusCodeMeaning">
+      <soap:operation soapAction="urn:soap-iso#GetStatusCodeMeaning" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateRecharge">
+      <soap:operation soapAction="urn:soap-iso#CreateRecharge" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateWimaxRecharge">
+      <soap:operation soapAction="urn:soap-iso#CreateWimaxRecharge" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InitRecharge">
+      <soap:operation soapAction="urn:soap-iso#InitRecharge" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="VerifyMSISDN">
+      <soap:operation soapAction="urn:soap-iso#VerifyMSISDN" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOperatorLimits">
+      <soap:operation soapAction="urn:soap-iso#GetOperatorLimits" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryRechargeStatus">
+      <soap:operation soapAction="urn:soap-iso#QueryRechargeStatus" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelRecharge">
+      <soap:operation soapAction="urn:soap-iso#CancelRecharge" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:soap-iso" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="virtualrechargeService">
+    <wsdl:port name="virtualrechargePort" binding="tns:virtualrechargeBinding">
+      <soap:address location="http://192.168.92.138/vr/bulktop/service/index.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

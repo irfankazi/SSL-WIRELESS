@@ -1,0 +1,91 @@
+11/11/2014 11:57:08 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/12/2014 11:00:10 AM ==> Recharge Request id:136Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/12/2014 6:59:43 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/12/2014 6:59:46 PM ==> Database Connection is not Open and tested for 0 Times
+11/12/2014 7:02:23 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/12/2014 7:02:26 PM ==> Database Connection is not Open and tested for 0 Times
