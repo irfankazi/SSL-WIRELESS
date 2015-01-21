@@ -57,9 +57,9 @@ E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSyste
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\bin\Debug\EntityFramework.dll
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\bin\Debug\MySql.Data.Entity.EF5.dll
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\bin\Debug\EntityFramework.xml
+E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.csprojResolveAssemblyReference.cache
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.InitRechargeForm.resources
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.Properties.Resources.resources
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.csproj.GenerateResource.Cache
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.exe
 E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.pdb
-E:\KAZI\Works\2015\13-01-2015(Bulk Top Up)\WORK with vrapi\BulkInitRechargeSystem\BulkInitRechargeSystem\obj\Debug\BulkInitRechargeSystem.csprojResolveAssemblyReference.cache

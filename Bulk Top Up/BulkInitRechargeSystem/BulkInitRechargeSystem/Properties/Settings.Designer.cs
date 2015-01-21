@@ -26,16 +26,6 @@ namespace BulkInitRechargeSystem.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://192.168.92.140/virtualrecharge/asp/service/index.php")]
-        public string BulkInitRechargeSystem_com_sslwireless_vrtest_virtualrechargeService {
-            get {
-                return ((string)(this["BulkInitRechargeSystem_com_sslwireless_vrtest_virtualrechargeService"]));
-            }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
         [global::System.Configuration.DefaultSettingValueAttribute("http://192.168.92.138/vr/bulktop/service/index.php")]
         public string BulkInitRechargeSystem_com_sslwireless_vrapi_virtualrechargeService {
             get {

@@ -183,7 +183,7 @@ namespace BulkInitRechargeSystem
                 }
 
 
-            timer1.Interval = 5000;
+            timer1.Interval = 10000;
             timer1.Start();
 
 

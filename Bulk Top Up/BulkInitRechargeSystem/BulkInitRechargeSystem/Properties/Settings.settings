@@ -2,9 +2,6 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BulkInitRechargeSystem.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="BulkInitRechargeSystem_com_sslwireless_vrtest_virtualrechargeService" Type="(Web Service URL)" Scope="Application">
-      <Value Profile="(Default)">http://192.168.92.140/virtualrecharge/asp/service/index.php</Value>
-    </Setting>
     <Setting Name="BulkInitRechargeSystem_com_sslwireless_vrapi_virtualrechargeService" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">http://192.168.92.138/vr/bulktop/service/index.php</Value>
     </Setting>
