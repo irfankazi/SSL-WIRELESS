@@ -1,0 +1,436 @@
+11/11/2014 11:57:08 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:08 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:14 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:2Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:5Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:8Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:11Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:14Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:17Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:20Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:23Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:26Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:29Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:32Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:35Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:38Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:41Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:44Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:47Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:50Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:53Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:56Can't Be rechargedAlready Tried for 5 Times
+11/11/2014 11:57:21 PM ==> Recharge Request id:59Can't Be rechargedAlready Tried for 5 Times
+11/12/2014 11:00:10 AM ==> Recharge Request id:136Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/12/2014 6:59:43 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/12/2014 6:59:46 PM ==> Database Connection is not Open and tested for 0 Times
+11/12/2014 7:02:23 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/12/2014 7:02:26 PM ==> Database Connection is not Open and tested for 0 Times
+11/13/2014 3:56:59 PM ==> Recharge Request id:107Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:11:02 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:02 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:03 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:03 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:04 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:04 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:04 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:04 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:05 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:05 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:11 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:11 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:13 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:13 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:14 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:14 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:14 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:14 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:15 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:15 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:21 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:21 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:22 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:22 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:22 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:22 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:23 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:23 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:24 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:24 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:30 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:30 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:31 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:31 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:31 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:31 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:33 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:33 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:34 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:34 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:39 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:39 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:40 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:40 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:41 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:41 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:42 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:42 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:43 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:43 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:49 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:49 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:11:49 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:49 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:11:50 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:50 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:11:51 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:51 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:11:53 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:53 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:11:59 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:11:59 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:00 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:00 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:00 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:00 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:01 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:01 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:02 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:02 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:08 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:08 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:09 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:09 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:09 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:09 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:11 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:11 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:12 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:12 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:17 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:17 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:18 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:18 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:19 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:19 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:20 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:20 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:21 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:21 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:27 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:27 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:27 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:27 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:29 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:29 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:30 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:30 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:30 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:30 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:36 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:36 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:37 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:37 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:39 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:39 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:39 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:39 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:40 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:40 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:46 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:46 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:47 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:47 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:48 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:48 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:48 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:48 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:49 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:49 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:12:55 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:55 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:12:56 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:56 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:12:57 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:57 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:12:57 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:57 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:12:59 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:12:59 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:05 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:05 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:06 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:06 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:06 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:06 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:07 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:07 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:08 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:08 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:14 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:14 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:14 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:14 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:15 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:15 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:16 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:16 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:17 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:17 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:23 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:23 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:23 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:23 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:24 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:24 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:25 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:25 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:26 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:26 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:32 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:32 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:32 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:32 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:33 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:33 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:34 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:34 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:35 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:35 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:41 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:41 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:42 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:42 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:43 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:43 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:43 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:43 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:44 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:44 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:50 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:50 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:13:51 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:51 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:13:51 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:51 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:13:52 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:52 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:13:53 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:53 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:13:59 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:13:59 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/13/2014 4:14:00 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:14:00 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/13/2014 4:14:01 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:14:01 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/13/2014 4:14:02 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:14:02 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/13/2014 4:14:03 PM ==> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+11/13/2014 4:14:03 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/13/2014 4:53:07 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:53:25 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:53:32 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:53:40 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:53:49 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:53:56 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:04 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:11 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:19 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:26 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:33 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:41 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:48 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:54:55 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 4:56:07 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 5:05:52 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 5:06:57 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 5:07:03 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 5:07:09 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/13/2014 5:07:15 PM ==> Recharge Request id:156Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/17/2014 11:52:43 AM ==> An error occurred while reading from the store provider's data reader. See the inner exception for details.MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.TimeoutException: Timeout in IO operation
+   at MySql.Data.MySqlClient.TimedStream.StopTimer()
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.FetchDataRow(Int32 statementId, Int32 columns)
+   at MySql.Data.MySqlClient.Driver.FetchDataRow(Int32 statementId, Int32 columns)
+   at MySql.Data.MySqlClient.ResultSet.GetNextRow()
+   at MySql.Data.MySqlClient.ResultSet.NextRow(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlDataReader.Read()
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   at MySql.Data.MySqlClient.MySqlConnection.HandleTimeoutOrThreadAbort(Exception ex)
+   at MySql.Data.MySqlClient.MySqlDataReader.Read()
+   at MySql.Data.Entity.EFMySqlDataReader.Read()
+   at System.Data.Common.Internal.Materialization.Shaper`1.StoreRead()System.Data.Entity
+11/17/2014 11:52:43 AM ==> Database Connection is not Open and Tryied  for 0 Times
+11/17/2014 11:59:29 AM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/17/2014 11:59:31 AM ==> Database Connection is not Open and Tryied  for 0 Times
+11/17/2014 11:59:39 AM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable network 192.168.63.142:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   at MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/17/2014 11:59:40 AM ==> Database Connection is not Open and Tryied  for 1 Times
+11/20/2014 4:39:37 PM ==> Recharge Request id:3Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/20/2014 4:41:09 PM ==> Recharge Request id:6Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/20/2014 4:41:39 PM ==> Recharge Request id:9Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/23/2014 4:55:07 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:55:07 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/23/2014 4:55:22 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:55:22 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/23/2014 4:55:37 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:55:37 PM ==> Database Connection is not Open and Tryied  for 2 Times
+11/23/2014 4:55:52 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:55:52 PM ==> Database Connection is not Open and Tryied  for 3 Times
+11/23/2014 4:56:07 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:56:07 PM ==> Database Connection is not Open and Tryied  for 4 Times
+11/23/2014 4:56:27 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:56:27 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/23/2014 4:56:42 PM ==> The underlying provider failed on Open.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)System.Data.Entity
+11/23/2014 4:56:42 PM ==> Database Connection is not Open and Tryied  for 1 Times
+11/25/2014 12:33:47 PM ==> Recharge Request id:8Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/25/2014 12:33:47 PM ==> Recharge Request id:5Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.

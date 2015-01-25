@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections></configSections>
+  <system.serviceModel>
+    <bindings>
+      <basicHttpBinding>
+        <binding name="virtualrechargeBinding" />
+      </basicHttpBinding>
+    </bindings>
+    <client>
+      <endpoint address="http://192.168.92.140/virtualrecharge/asp/service/index.php" binding="basicHttpBinding" bindingConfiguration="virtualrechargeBinding" contract="ServiceReference1.virtualrechargePortType" name="virtualrechargePort" />
+    </client>
+  </system.serviceModel>
+  <connectionStrings>
+    <add name="bulktopupEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=MySql.Data.MySqlClient;provider connection string=&quot;server=192.168.63.142;User Id=safa;password=safa.210#a;database=bulktopup&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
+</configuration>

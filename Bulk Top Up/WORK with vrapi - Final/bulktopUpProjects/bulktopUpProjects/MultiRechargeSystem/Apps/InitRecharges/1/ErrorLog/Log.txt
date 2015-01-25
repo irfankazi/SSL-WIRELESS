@@ -1,0 +1,15 @@
+11/24/2014 10:37:06 AM ==> Recharge Request id:4Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/24/2014 10:37:06 AM ==> Recharge Request id:1Can't Be rechargedThis GUID could not be found. Pls try with a vaild Recharge Request GUID.
+11/25/2014 12:52:34 PM ==> Recharge Request id:1Can't Be rechargedYou have provided an invalid password.
+11/25/2014 1:08:04 PM ==> Recharge Request id:1Can't Be rechargedYou have provided an invalid password.
+11/26/2014 2:04:22 PM ==> Recharge Request id:1Can't Be rechargedYou have provided an invalid password.
+11/26/2014 2:16:44 PM ==> The operation has timed out
+11/26/2014 2:16:44 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/26/2014 2:16:49 PM ==> The operation has timed out
+11/26/2014 2:16:49 PM ==> Database Connection is not Open and Tryied  for 0 Times
+11/26/2014 2:18:22 PM ==> Recharge Request id:19Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/26/2014 2:18:22 PM ==> Recharge Request id:19Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/26/2014 2:18:23 PM ==> Recharge Request id:16Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/26/2014 2:18:23 PM ==> Recharge Request id:13Can't Be rechargedThis recharge cycle has ended. It cannot be initiated or cancelled.
+11/30/2014 10:09:30 AM ==> Recharge Request id:1Can't Be rechargedYou have provided an invalid password.
+11/30/2014 10:21:34 AM ==> Recharge Request id:1Can't Be rechargedYou have provided an invalid password.
