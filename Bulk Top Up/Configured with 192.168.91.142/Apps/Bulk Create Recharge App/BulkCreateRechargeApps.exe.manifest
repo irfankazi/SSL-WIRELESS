@@ -92,14 +92,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BulkCreateRechargeApps.exe" size="70144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BulkCreateRechargeApps.exe" size="70656">
       <assemblyIdentity name="BulkCreateRechargeApps" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MF3JEM24g9gNtMNVI6Jg2Sqd8N+pFE0TBsOaUevISbM=</dsig:DigestValue>
+        <dsig:DigestValue>xL/waPeF2m0bhuuC32Vexffb/qNw/xhd0YGkRzNcgPQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -139,13 +139,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BulkCreateRechargeApps.exe.config" size="2207">
+  <file name="BulkCreateRechargeApps.exe.config" size="2604">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>s1OOlTrFJO6XCIk/d75jzGQ7F/aOD9zRd431oIbiwkE=</dsig:DigestValue>
+      <dsig:DigestValue>WQEa2sKDiadDQlzV3vMIjC2a88dXD5LFJu8S71E9/dg=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

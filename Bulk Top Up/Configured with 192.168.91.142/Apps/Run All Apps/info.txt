@@ -1,0 +1,2 @@
+.\Apps\Bulk Create Recharge App\BulkCreateRechargeApps.exe
+.\Apps\Bulk Init Recharge App\BulkInitRechargeSystem.exe
