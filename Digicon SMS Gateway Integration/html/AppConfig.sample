@@ -1,8 +1,0 @@
-<?php
-$db_host= "localhost";
-$db_user= "root";
-$db_password 	= "";
-$db_name= "besma";
-define("BESMA", '.php');
-$secret = "besma";
-?>
