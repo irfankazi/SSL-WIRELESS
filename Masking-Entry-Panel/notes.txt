@@ -1,0 +1,6 @@
+Project Name: Masking Entry Panel
+DB: MySQL
+Host: SSL Server
+Last Update: 26th June, 2016
+Developed by: Kazi Irfan Bin Yusuf
+Designation: Junior Executive, Service Operations
